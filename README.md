@@ -29,22 +29,18 @@ Your broker files never leave your machine.
 
 ## How to install
 
-1. Download the ZIP for your platform from the [Releases](https://github.com/senthil-prabu/pff-folio-releases/releases) page
-2. Unzip anywhere on your computer
-3. Launch:
+Download the file for your platform from the [Releases](https://github.com/senthil-prabu/pff-folio-releases/releases) page:
 
-| Platform | How to launch |
-|----------|--------------|
-| **Windows** | Double-click `PFF-Folio.exe` |
-| **macOS (Apple Silicon)** | Double-click `start-mac-apple.command` |
-| **macOS (Intel)** | Double-click `start-mac-intel.command` |
-| **Linux** | Run `./PFF-Folio-linux` in a terminal |
+| Platform | Download | How to install |
+|----------|----------|----------------|
+| **Windows** | `PFF-Folio-Setup.exe` | Run the installer — the app launches automatically when it finishes |
+| **macOS (Apple Silicon)** | `PFF-Folio-mac-apple.dmg` | Open the DMG → drag PFF-Folio to Applications → launch from Applications |
+| **macOS (Intel)** | `PFF-Folio-mac-intel.dmg` | Open the DMG → drag PFF-Folio to Applications → launch from Applications |
+| **Linux / advanced** | `pff-folio.zip` | Unzip → `chmod +x PFF-Folio-linux` → run `./start-linux.sh` |
 
 The app opens automatically in its own window — no browser tab to open and no address to type.
 
-No Node.js, npm, or any other software required — the binary is fully self-contained.
-
-> **macOS note:** On first launch, macOS may block the `.command` file. Right-click → Open → Open to bypass Gatekeeper.
+No Node.js, npm, or any other software required — the app is fully self-contained.
 
 ---
 
