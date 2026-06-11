@@ -48,8 +48,8 @@ No Node.js, npm, or any other software required — the app is fully self-contai
 
 | | |
 |--|--|
-| **OS** | Windows 7+, macOS 10.12+, Linux |
-| **Browser** | Chrome or Edge (recommended) · Safari · Firefox |
+| **OS** | Windows 10+, macOS Ventura 13.5+, Linux |
+| **Browser** | Chrome 113+ or Edge 113+ (recommended) · Safari 17+ · Firefox 129+ |
 | **Internet** | Required for price fetching and license activation; not required for daily use |
 | **Storage** | ~100 MB for the binary; portfolio data stored locally in the browser |
 
