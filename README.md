@@ -40,7 +40,7 @@ Your broker files never leave your machine.
 | **macOS (Intel)** | Double-click `start-mac-intel.command` |
 | **Linux** | Run `./PFF-Folio-linux` in a terminal |
 
-The app opens automatically in your browser at **http://localhost:3010**.
+The app opens automatically in its own window — no browser tab to open and no address to type.
 
 No Node.js, npm, or any other software required — the binary is fully self-contained.
 
