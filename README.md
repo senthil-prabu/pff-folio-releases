@@ -10,11 +10,14 @@ Your broker files never leave your machine.
 
 ## What it does
 
-- **Unified portfolio view** — import data from IBKR, Nordnet, eToro, Zerodha, DEGIRO, Trading 212, Avanza, Trade Republic, and Equalplus/Computershare. Add bank savings, real estate, and pension manually.
+- **Unified portfolio view** — import data from IBKR, Nordnet, eToro, Zerodha, Groww, DEGIRO, Trading 212, Avanza, Trade Republic, Coinbase, and Equalplus/Computershare. Indian investors can also import CAS statements (NSDL/CDSL demat + CAMS/KFintech mutual fund PDFs). Add bank savings, real estate, pension, and fixed deposits manually.
 - **Net worth tracking** — total value, unrealised P&L, CAGR, XIRR, and invested capital — across all brokers and currencies (EUR, USD, GBP, SEK, INR).
 - **Diversification analysis** — broker allocation, sector allocation, and asset-category donuts across 13 categories.
 - **Investment journey** — portfolio value chart over time with milestone tracking (€1K → €1M invested and portfolio value).
-- **End-of-day prices** — fetched automatically from Yahoo Finance after import for Nordnet, eToro, DEGIRO, and manual holdings. IBKR uses its own authoritative MarkPrice.
+- **Goals & retirement planning** — target-based projections, a monthly savings plan tracker, and a Retirement Simulator comparing a personal investment account against a Finnish investment holding company (oy) for tax-planning estimates.
+- **Watchlist & price alerts** — track symbols you don't yet own and get notified on threshold crossings.
+- **Benchmark comparison & performance attribution** — see your return against major indices and identify top/bottom contributors.
+- **End-of-day prices** — fetched automatically from Yahoo Finance after import. IBKR uses its own authoritative MarkPrice.
 - **Multi-member family portfolio** — track up to 6 family members in one dashboard. Nordnet multi-account CSVs are auto-split by account number.
 - **Finnish Vero tax report** — Form 9A capital gains table + VSY09A flat file for ilmoitin.fi submission, including CFD handling and hankintameno-olettama (deemed acquisition cost).
 - **Manual transaction entry** — add BUY, SELL, DIVIDEND, DEPOSIT, WITHDRAWAL, and FEE transactions manually with full edit and delete.
