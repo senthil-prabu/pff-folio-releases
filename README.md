@@ -9,7 +9,7 @@ by [Fire2Freedom](https://fire2freedom.com)
 
 ## ⬇️ Download
 
-👉 **[Download latest release →](https://github.com/senthil-prabu/pff-folio-releases/releases/latest)**
+👉 **[Download latest release →](https://github.com/senthil-prabu/f2f-folio-releases/releases/latest)**
 
 | Platform | Launcher |
 |---|---|
@@ -22,7 +22,7 @@ by [Fire2Freedom](https://fire2freedom.com)
 
 ## 🚀 Getting started
 
-1. Download `f2f-folio.zip` from [Releases](https://github.com/senthil-prabu/pff-folio-releases/releases/latest)
+1. Download `f2f-folio.zip` from [Releases](https://github.com/senthil-prabu/f2f-folio-releases/releases/latest)
 2. Unzip to any folder
 3. Double-click the launcher for your platform
 4. App opens in your browser at `http://localhost:3010`
@@ -34,16 +34,19 @@ by [Fire2Freedom](https://fire2freedom.com)
 
 ## ✨ Features
 
-- **12 tabs** — Overview, Holdings, Charts, Transactions, Journey, Dividends, Performance, Rebalance, Benchmark, Watchlist, Goals, Notes — plus dedicated Tax and Fees & Charges sections
+- **15 tabs** — Overview, Features, Holdings, Charts, Transactions, Journey, Dividends, Performance, Rebalance, Benchmark, Watchlist, Goals, Notes, Tax, Fees & Charges
+- **Features tab** — a browsable catalogue of the app's niche/advanced capabilities, so nothing gets lost in the sidebar
 - **13 brokers** — IBKR, Nordnet, eToro, Zerodha, Groww, DEGIRO, Trading 212, Avanza, Trade Republic, Coinbase, Equalplus/Computershare, CAS (India demat/mutual-fund statements), and Manual entry
 - **IBKR auto-sync** — no CSV download, direct Flex Query API
 - **Finnish tax export** — OmaVero Form 9A XML (VSY09A via Ilmoitin.fi), CFD income handled separately
 - **India tax export** — Schedule 112A LTCG capital gains CSV, FIFO lot-matching
 - **Multi-country tax** — Finland and India tax reporting can both be enabled at once (e.g. NRI households)
+- **India vs Foreign Net Worth view** — dedicated NRI split card on the Overview tab
 - **Retirement Simulator** — personal vs. investment company (oy) paths, gradual withdrawal modelling
 - **Goals & Financial Health** — savings plans, per-member goals, monthly contribution tracking
+- **Watchlist & price alerts** — threshold or % distance-to-trigger alerts per holding
 - **Multi-member** — up to 6 family members with separate tracking
-- **PIN lock + AES-256 encryption** — data encrypted at rest
+- **PIN lock + AES-256 encryption** — data encrypted at rest, with Forgot PIN recovery
 - **Privacy mode** — hide all values on screen
 - **Live prices** — Yahoo Finance end-of-day refresh across all supported brokers
 - **Demo data** — try before importing your own data
@@ -64,7 +67,7 @@ Free 7-day trial included. Purchase a license at [fire2freedom.com](https://fire
 
 ---
 
-## 📬 Support
+## 🔬 Support
 
 Open an issue in this repo or email support@fire2freedom.com
 
